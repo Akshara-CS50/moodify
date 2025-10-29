@@ -6,6 +6,8 @@ A privacy-focused mental health companion app for teenagers to track emotions, d
 
 Moodify empowers teenagers with tools to understand and manage their mental health. With AI-powered insights, daily reflections, and comprehensive mood tracking, Moodify provides a safe space for emotional wellbeing—all while keeping data 100% private and local.
 
+Available at https://moodify-phi-nine.vercel.app/ 
+
 ## Features
 
 ### Core Functionality
